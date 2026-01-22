@@ -1,4 +1,4 @@
-<!-- 🔥 TOP BANNER -->
+<!-- 🔥 BANNER -->
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
@@ -8,131 +8,110 @@
 
 <!-- 👋 INTRO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Python+Developer;Building+Real+Projects;Learning+by+Doing" />
-</p>
-
-<!-- 👀 PROFILE VIEWS (CLEAN ADDITION) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderyashu09&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+Developer;Building+Real+Projects;Learning+by+Doing" />
 </p>
 
 ---
 
-<h2 align="center">👋 Hi, I'm Yash</h2>
+## 👋 Hi, I'm Yash
 
-<p align="center">
-<b>AI Engineer in progress | Python Developer 🚀</b><br>
-I focus on <b>building real, working projects</b> in AI, Machine Learning, and Python — not just tutorials.
-</p>
+AI Engineer in progress | Python Developer 🚀  
+I focus on **building real, working projects** in AI, Machine Learning, and Python — not just tutorials.
 
 ---
 
-<h2 align="center">🧠 What I Do</h2>
-
-<p align="center">
-🤖 Build <b>AI-powered applications</b><br>
-🐍 Develop <b>Python-based tools</b><br>
-📊 Work with <b>data & ML models</b><br>
-🛠️ Learn by <b>building → improving → rebuilding</b>
-</p>
+## 🧠 What I Do
+- 🤖 Build **AI-powered applications**
+- 🐍 Develop **Python-based tools**
+- 📊 Work with **data & ML models**
+- 🛠️ Learn by **building → improving → rebuilding**
 
 ---
 
-<h2 align="center">🔥 Projects (Built / In Progress)</h2>
+## 🔥 Projects (Built / In Progress)
 
-<p align="center">
-<b>🧠 AFM-GPT</b><br>
-AI assistant for <b>Atomic Force Microscopy (AFM)</b> data analysis<br>
-Data visualization • AI-based Q&A using LLMs • Real scientific use case
-</p>
+### 📈 Nifty AI
+AI-powered system for **NIFTY market analysis and insights**  
+- Market data analysis  
+- Pattern and trend identification  
+- ML-based insights for understanding market behavior  
 
-<br>
+### 🧠 AFM-GPT
+AI assistant for **Atomic Force Microscopy (AFM)** data analysis  
+- Data visualization  
+- AI-based Q&A using LLMs  
+- Real scientific use case  
 
-<p align="center">
-<b>🌍 Prompt to Planet</b><br>
-Create <b>virtual worlds from text prompts</b> using AI<br>
-Creative + system design focused • AI-driven environment generation
-</p>
+### 🌍 Prompt to Planet
+Create **virtual worlds from text prompts** using AI  
+- Creative + system design focused  
+- AI-driven environment generation  
 
-<br>
+### 🗂️ AutoStruct AI
+AI tool that **creates file & folder structures from text or images**  
+- Automation-focused  
+- Converts intent into system structure  
 
-<p align="center">
-<b>🗂️ AutoStruct AI</b><br>
-AI tool that <b>creates file & folder structures from text or images</b><br>
-Automation-focused • Converts intent into system structure
-</p>
-
-<br>
-
-<p align="center">
-<b>🧩 Python Mini Projects</b><br>
-Logic-based scripts • Utilities • Experiments
-</p>
+### 🧩 Python Mini Projects
+- Logic-based scripts  
+- Utilities & experiments  
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+## 🧰 Tech Stack
 
-<h3 align="center">🧑‍💻 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=blue" />
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow" />
-</p>
+### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-<h3 align="center">🤖 AI / ML</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange" />
-</p>
+### 🤖 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 
-<h3 align="center">🌐 Web & Apps</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=red" />
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+### 🌐 Web & Apps
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=red)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
 
-<h3 align="center">🛠️ Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
-</p>
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=orange)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=yellow)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 ---
 
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderyashu09&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderyashu09&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderyashu09&layout=compact&theme=tokyonight" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api?username=coderyashu09&show_icons=true&theme=tokyonight" />
+  <img width="48%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderyashu09&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="center">🤝 Let’s Connect</h2>
+## 🤝 Let’s Connect
+I’m open to:
+- AI / ML collaborations  
+- Python-based tools  
+- Real-world problem-solving projects  
 
-<p align="center">
-📧 Email: <b>ykanzariya4@gmail.com</b><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/yash-kanzariya-3ba82627b/">Yash Kanzariya</a>
-</p>
+📧 Email: ykanzariya4@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/yash-kanzariya-3ba82627b/  
 
 ---
 
 <p align="center">
-✨ <b>Learning honestly. Building seriously. Improving daily.</b> ✨
+✨ Learning honestly. Building seriously. Improving daily. ✨
 </p>
 
-<!-- 🔥 FOOTER -->
+<!-- 🔥 FULL-WIDTH FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"
+    width="100%"
+  />
 </p>
