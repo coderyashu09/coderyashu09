@@ -98,8 +98,8 @@ I’m open to:
 - Python-based tools  
 - Real-world problem-solving projects  
 
-📧 Email: *(add your email)*  
-💼 LinkedIn: *(add your link)*  
+📧 Email: ykanzariya4@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/yash-kanzariya-3ba82627b/  
 
 ---
 
