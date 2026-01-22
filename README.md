@@ -1,6 +1,9 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Yash%20%7C%20AI%20%26%20Python&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
+    width="100%"
+  />
 </p>
 
 <!-- 👋 INTRO ANIMATION -->
