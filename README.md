@@ -72,6 +72,21 @@ AI tool that **creates file & folder structures from text or images**
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=red)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=green)
+![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=cyan)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=purple)
+
+### 🧠 Prompt Engineering & AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=google&logoColor=blue)
+![Grok](https://img.shields.io/badge/Grok-0d1117?style=for-the-badge&logo=x&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-0d1117?style=for-the-badge&logo=warp&logoColor=purple)
+![AI Tools](https://img.shields.io/badge/More_AI_Tools-0d1117?style=for-the-badge&logo=artificial-intelligence&logoColor=cyan)
 
 ### 🌐 Web & Apps
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=red)
