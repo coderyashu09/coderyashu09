@@ -62,9 +62,10 @@ AI tool that **creates file & folder structures from text or images**
 
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=orange)
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue)
+![Dart](https://img.shields.io/badge/Dart_(Basic)-0d1117?style=for-the-badge&logo=dart&logoColor=cyan)
 
 ### 🤖 AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=blue)
