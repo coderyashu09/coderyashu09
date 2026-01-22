@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 Hi, I'm Yash
+## 👋 Hi, I'm Yash Kanzariya
 
 AI Engineer in progress | Python Developer 🚀  
 I focus on **building real, working projects** in AI, Machine Learning, and Python — not just tutorials.
