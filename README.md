@@ -97,6 +97,13 @@ AI tool that **creates file & folder structures from text or images**
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=yellow)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
+### 🎨 Design & Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=blue)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=cyan)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=purple)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0d1117?style=for-the-badge&logo=adobepremierepro&logoColor=violet)
+![UI/UX Basics](https://img.shields.io/badge/UI%2FUX_Basics-0d1117?style=for-the-badge&logo=design&logoColor=white)
+
 ---
 
 <h2 align="center">📊 GitHub Activity</h2>
