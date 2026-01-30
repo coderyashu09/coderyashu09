@@ -105,21 +105,10 @@ AI tool that **creates file & folder structures from text or images**
 ![UI/UX Basics](https://img.shields.io/badge/UI%2FUX_Basics-0d1117?style=for-the-badge&logo=design&logoColor=white)
 
 ---
-<h2 align="center">📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=coderyashu09&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderyashu09&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderyashu09&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderyashu09&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
