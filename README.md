@@ -107,8 +107,6 @@ AI tool that **creates file & folder structures from text or images**
 ---
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 ![GitHub Stats](https://github-readme-stats-delta-five-2glrjipawt.vercel.app/api?username=coderyashu09&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-delta-five-2glrjipawt.vercel.app/api/top-langs/?username=coderyashu09&layout=compact&theme=tokyonight&hide_border=true)
